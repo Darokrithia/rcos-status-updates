@@ -1,22 +1,15 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
+> Last week I familiarized myself with OpenCircuit's code and how the website runs.
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> Examples: New Bugs to be fixed, Design choices
+> This week I hope to fix a number of bugs, most namely the one where switches make buttons act like switches
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
+> Not that I know of, I might sitll need more knowledge on how the code runs, but that is yet to be seen
 
 ## Notes
 
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+> N\A
