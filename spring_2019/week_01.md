@@ -2,23 +2,23 @@
 
 > In this section, you can write about what you accomplished in the previous week.
 
-> This past week, I was able to implement the the dialog box for creating a new user in the front end. I \
-> learned how to send requests in JavaScript to the backend API.
+> This past week, I was able to learn a lot about sockets and websocket.io.  I was able to make a small app that
+> runs a server on my computer and can chat with itself
 
 ## This Week's Plan
 
 > In this section, you can write about what you have planned for next week.
 
-> After my accomplishments from last week, I plan to add accessibility features to the user creation dialog box. \
-> I also plan on attending the git workshop this week.
+> This week I hope to continue learning about websocket.io and improve my test app by letting it communicate with
+> nearby devices.  
 
 ## Anything Blocking?
 
 > In this section, you can write about any blockers that you are having trouble in the project.
 
-> I don't know how to test the accessibility features I am going to be implementing this week, so i am going to \
-> ask my mentors if they have any suggestions.
+> Websockets is a fairly new technology to me and I am still learning about it.
 
 ## Notes
 
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+> Most likely everything I work on right now will later be deleted in later updates as I am just learning right
+> now; however, I will still push every commit I make so it will still be visible in the git repo
